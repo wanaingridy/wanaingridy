@@ -14,6 +14,7 @@ estágio na área, para aprimorar e colocar em prática aquilo que tenho aprendi
 ⚡ Algo sobre minhas preferências: Tenho gostado bastante da área de desenvolvimento web e banco de dados, 
 então pretendo dar ênfase e preferência para trabalhar nessa área futuramente, provavelmente atuando 
 como desevolvedor front-end, ou em banco de dados.
+
 ---
 
 ### 🤖 Languages ​​and Technologies
